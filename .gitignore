@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Logs and databases
+*.log
+*.sqlite
